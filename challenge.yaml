@@ -1,0 +1,7 @@
+slug: stacked-queries
+title: Stacked Queries
+category: sql injection
+difficulty: hard
+points: 400
+codec: fernet
+repo_url: https://github.com/sparflag/stacked-queries
